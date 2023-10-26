@@ -1,13 +1,10 @@
 ---
-name: Parth Desai
-avatar: /static/images/avatar.png
-occupation: Data Engineer
-company: Accenture
-email: desaiparth2000@gmail.com
-twitter: https://twitter.com/_ParthDesai_
-linkedin: https://www.linkedin.com/in/parth-desai-2bb1b0160/
-github: https://github.com/pycoder2000
-text1: I am an India based Data Engineer with a bachelors in Computer Science. I am passionate about Data Science and Automation. I am also fascinated with Mathematics and wish to make a career out of it someday.
+name: Shamika Rosado
+avatar: /static/images/NeoQ.png
+occupation: 
+twitter: https://twitter.com/theepurplecolor
+youtube: https://www.youtube.com/@thepurplecolorofficial
+text1: I am a Native American. These are my musings, on my culture, on my people, on us. My ancestor said "I am no Black Man", though his skin as dark as obsedian... This blog is dedicated to the upliftment of the "black" community. I aim to write equal parts love letter and critque.  
 text2:
 text3:
 ---

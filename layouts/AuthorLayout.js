@@ -67,12 +67,12 @@ export default function AuthorLayout({ children, frontMatter }) {
                 animationDelay={300}
                 animationDuration={3000}
               >
-                {text1} Currently, I am focused on building data pipelines and automating them at{' '}
+                {text1} Let the Cherokee, Taino {' '}
                 <Link
                   href={'https://www.accenture.com/in-en'}
                   className="special-underline no-underline hover:text-gray-100 dark:text-gray-100 hover:dark:text-gray-100"
                 >
-                  Accenture
+                  Speak!
                 </Link>
               </RoughNotation>
             </p>
